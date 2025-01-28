@@ -1,3 +1,5 @@
 ./venv
 ./models
 .env
+./raw_data/archive.zip
+./.idea
