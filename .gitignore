@@ -1,5 +1,6 @@
 ./venv
-./models
+./models/*
 .env
 ./raw_data/archive.zip
 ./.idea
+./notebooks/wandb/*
